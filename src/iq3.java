@@ -15,7 +15,7 @@ public class iq3 {
 		System.out.print (arr1[1]+" ");
 		for (int i = 2; i < arr1.length; i++) {
 			arr1[i] = arr1[i-1] + arr1[i - 2];
-			System.out.print(arr1[i]+" ");
+			System.out.print(arr1[i]+);
 		}
 	}
 }
